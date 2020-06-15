@@ -1,0 +1,8 @@
+---
+comment: |
+  MA Court Poverty Level
+code: |
+  poverty_level_update = "2020"
+  poverty_base = 12760
+  poverty_increment = 4480
+  poverty_multiplier = 1.25 # threshold multiplier. e.g. 2 for 200%
