@@ -1,3 +1,9 @@
+# docassemble-MAPovertyScale
+
+**This package is deprecated in favor of [docassemble-PovertyScale](https://github.com/SuffolkLITLab/docassemble-PovertyScale). **
+
+## Old instructions
+
 Contains most recent poverty scale in poverty.yml
 
 When you include this in your package, you will have 4 variables
